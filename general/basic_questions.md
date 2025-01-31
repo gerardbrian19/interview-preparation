@@ -1,4 +1,4 @@
-### **1. Abstract vs. Virtual Methods – Definition and Usage**
+### **1. Abstract vs. Virtual Methods Definition and Usage**
 #### **Abstract Methods:**
 - **Definition:** Abstract methods are declared in an abstract class but do not have an implementation. They must be overridden in derived classes.
 - **Usage:** When you want to enforce that all subclasses must provide their own implementation of a method.
