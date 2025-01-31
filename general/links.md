@@ -28,6 +28,10 @@ https://birdeatsbug.com/blog/object-oriented-programming-in-typescript
 
 https://dev.to/clifftech123/oop-typescript-jk4
 
+## Microfrontend
+
+https://dev.to/michaeljota/how-to-split-an-angular-app-into-micro-frontend-apps-1fi9
+
 ## Tech Exam Practice
 
 https://leetcode.com/studyplan/top-interview-150/
