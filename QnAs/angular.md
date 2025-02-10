@@ -249,3 +249,7 @@ export class FetchDataPipe implements PipeTransform {
 - If asked about your experience, mention **Angular practices** you follow.
 
 Let me know if you want to go deeper into any topic! 🚀
+
+Cohesion - relation
+Coupling - level of inter  (code that is tied together)
+Liskov - Override parent - tell, dont ask
